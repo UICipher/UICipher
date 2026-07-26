@@ -14,6 +14,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=UICipher&label=Profile%20Views&color=6a0dad&style=flat" alt="Profile Views" />
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 🔐 Began the journey with **Cybersecurity** at **UET**
 - 💻 I work with **C, C++, and Python** while building a strong base in web fundamentals (**HTML, CSS**)
 - 🎓 I am currently pursuing a degree in **Cybersecurity**
@@ -21,6 +25,15 @@
 - 💬 Ask me about **Ethical Hacking, Networking, Linux, Programming Fundamentals**
 - ⚡ Interest in **Penetration Testing, Digital Forensics, Malware Analysis, Network Security**
 - ✨ Always learning. Always leveling up.
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="assets/hacker-illustration.svg" width="320"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 

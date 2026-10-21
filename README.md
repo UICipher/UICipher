@@ -117,7 +117,7 @@
 
 - 🔧 Grinding beginner and intermediate rooms on **TryHackMe / HackTheBox**
 - 📖 Strengthening low-level OS mechanics, Linux kernel structures, and TCP/IP handshakes
-- 🧩 Toolsmithing automated reconnaissance scripts in Python, Java, C++, and C
+- 🧩 Toolsmithing automated reconnaissance scripts in Python, C++, and Java
 
 ---
 

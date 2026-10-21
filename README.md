@@ -6,7 +6,7 @@
 <!-- Live Interactive Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Java+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- Professional Security Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
@@ -68,10 +68,12 @@
 ### 🎮 `root@umarimran:~# ./launch_ctf_arcade.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=vue-dark&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=050505" height="175"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=vue-dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=vue-dark&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=050505" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=vue-dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
+
 </div>
 
 ---
@@ -100,7 +102,7 @@
 ### 📈 `root@umarimran:~# git-stats --activity-graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UICipher&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UICipher&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -121,8 +123,10 @@
 
 ---
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=100&section=footer" width="100%"/>
 
-<div align="center">
 <sub>🔒 [ KERNEL SECURED — ACTIVE DEFENSIVE POSTURE ENGAGED ] 🔒</sub>
+
 </div>

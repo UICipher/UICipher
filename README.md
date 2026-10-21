@@ -1,119 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0d1117&height=220&section=header&text=Umer%20Imran&fontSize=45&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20@%20UET&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<!-- Terminal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0a0f0d,100:050505&height=180&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00FF66&animation=fadeIn&fontAlignY=40&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20SEC_OPS_ACTIVE&descAlignY=65&descSize=15&descColor=008F39" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Pursuing+Cybersecurity+at+UET;C+%7C+Python+%7C+C%2B%2B+%7C+Web+Fundamentals;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
+<!-- Typing Terminal Effect -->
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Initializing+Security+Protocols...;Target%3A+Vulnerability+Assessment+%26+Pen-Testing;Executing+Payload...+Access+Granted;Status%3A+Ethical+Hacker+%7C+CTF+Enthusiast" alt="Terminal Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-imran-65538738a)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerimran1882@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS)](https://github.com/UICipher)
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://www.linkedin.com/in/umar-imran-65538738a)
+[![Email](https://img.shields.io/badge/Secure_Mail-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF66)](mailto:umerimran1882@gmail.com)
+[![Clearance Level](https://img.shields.io/badge/Clearance-ROOT_ACCESS-000000?style=for-the-badge&logo=awesomewm&logoColor=00FF66)](https://github.com/UICipher)
+[![Profile Views](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff66&label=HITS)](https://github.com/UICipher)
 
 </div>
 
 ---
 
-### 🔐 About Me
+### ⚡ `root@uicipher:~# whoami`
 
-- 🎓 Currently pursuing a degree in **Cybersecurity** at **UET**
-- 🛡️ Passionate about **ethical hacking, network security, and secure software development**
-- 💻 Building a strong foundation in programming to understand systems from the inside out
-- 🔍 Interested in **penetration testing, vulnerability analysis, and digital forensics**
-- 📚 Constantly learning — labs, CTFs, and hands-on practice over just theory
-- 🚀 Goal: become a well-rounded security professional who can both build and break systems
-
----
-
-### 🧠 Skills
-
-<div align="center">
-
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
-
-### 🛠️ Security Tools & Tech I'm Learning / Using
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-</div>
-
-<div align="center">
-<sub>🧪 Also exploring: OWASP Top 10 · John the Ripper · Hydra · Wireshark packet analysis · Basic Active Directory attacks · Networking fundamentals (TCP/IP, DNS, subnetting)</sub>
-</div>
-
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=dark&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- snake animation generated by the workflow in .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/UICipher/UICipher/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Animates itself weekly once the included GitHub Action runs — see setup note below.</sub>
-
-</div>
-
----
-
-### 🧙 Security Quote
-
-> *"Security is not a product, but a process."*
->
-> — Bruce Schneier
-
----
-
-### 📌 Currently Working On
-
-- 🔧 Practicing on beginner-friendly CTF platforms (TryHackMe / HackTheBox style rooms)
-- 📖 Strengthening networking and Linux fundamentals
-- 🧩 Building small tools in Python and C++ to automate security tasks
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0d1117&height=100&section=footer" width="100%"/>
-
-<div align="center">
-<sub>🔒 Learning to break things so I can learn how to defend them.</sub>
-</div>
+```c
+struct HackerProfile {
+    char* name        = "Muhammad Umar Imran";
+    char* role        = "Cybersecurity Student @ UET Lahore";
+    char* focus       = "Offensive Security, Vulnerability Analysis & Malware Mechanics";
+    char* philosophy  = "You cannot secure what you do not understand how to break.";
+};

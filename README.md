@@ -1,42 +1,119 @@
 <div align="center">
 
-<!-- Elite Cyber-Matrix Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,25&height=240&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=scaleIn&fontAlignY=33&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20OFFENSIVE_SECURITY_%26_RED_TEAM_OPERATIVE&descAlignY=62&descSize=14&descColor=38bdf8" width="100%"/>
+<!-- Elite Cyber Hacker Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=230&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=38bdf8" width="100%"/>
 
-<!-- Live Interactive Hacking Sequence -->
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Initializing+Neural+Link...+Access+Granted;Target%3A+UET+Lahore+%7C+Cybersecurity+Division;Specialization%3A+Penetration+Testing+%26+Vulnerability+Research;C++%7C+Python+%7C+Bash+%7C+Linux+Kernel+Exploitation;Always+Learning.+Always+Hacking+Ethically." alt="Terminal Typing SVG" />
+<!-- Live Interactive Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Bash+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
 
 <br/>
 
-<!-- Lethal Clearance Badges -->
-[![Clearance](https://img.shields.io/badge/CLEARANCE-ROOT_ADMIN-000000?style=for-the-badge&logo=awesomewm&logoColor=00ff66)]()
-[![Target Base](https://img.shields.io/badge/BASE-UET_LAHORE-000000?style=for-the-badge&logo=codeforces&logoColor=38bdf8)]()
-[![LinkedIn](https://img.shields.io/badge/SECURE_LINK-000000?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
-[![Encrypted Mail](https://img.shields.io/badge/COMM_CHANNEL-000000?style=for-the-badge&logo=minutemailer&logoColor=00ff66)](mailto:umerimran1882@gmail.com)
-[![Active Sessions](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff66&label=HITS)](https://github.com/UICipher)
+<!-- Professional Security Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
+[![Secure Mail](https://img.shields.io/badge/Secure_Mail-0d1117?style=for-the-badge&logo=minutemailer&logoColor=00ff66)](mailto:umerimran1882@gmail.com)
+[![Clearance](https://img.shields.io/badge/Clearance-ROOT_ACCESS-0d1117?style=for-the-badge&logo=awesomewm&logoColor=00ff66)](https://github.com/UICipher)
+[![Profile Views](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff66&label=HITS)](https://github.com/UICipher)
 
 </div>
 
 ---
 
-### 💻 `root@uicipher:~# cat /sys/kernel/security/identity.manifest`
+### 🔐 `root@uicipher:~# cat ./about_me.md`
 
-```c
-#include <stdio.h>
-#include <security/core.h>
+- 🎓 **Academic Base:** Pursuing an intensive degree in **Cybersecurity** at **UET Lahore**
+- 🛡️ **Core Domain:** Passionate about **ethical hacking, penetration testing, vulnerability analysis, and network forensics**
+- 💻 **Low-Level Code:** Building strong foundations in systems programming to understand software from the inside out
+- 🔍 **Practical R&D:** Heavy focus on hands-on labs, CTF challenges, and exploit simulations rather than plain theory
+- 🚀 **Mission:** To become a elite security professional capable of both breaking and hardening critical infrastructure
 
-typedef struct {
-    char* handle;
-    char* affiliation;
-    char* core_domain;
-    char* status;
-} CyberOperative;
+---
 
-CyberOperative init_profile() {
-    return (CyberOperative){
-        .handle      = "Muhammad Umar Imran [UICipher]",
-        .affiliation = "UET Lahore — Cybersecurity Undergraduate",
-        .core_domain = "Offensive Security, Reverse Engineering & Exploit Development",
-        .status      = "[ ACTIVE & HUNTING VULNERABILITIES ]"
-    };
-}
+### 🧠 `root@uicipher:~# cat ./skills.cfg`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c&logoColor=00ff66)
+![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff66)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff66)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff66)
+
+</div>
+
+---
+
+### 🛠️ `root@uicipher:~# ./load_security_arsenal.sh`
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff66)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff66)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff66)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00ff66)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff66)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=00ff66)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff66)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=00ff66)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00ff66)
+
+</div>
+
+<div align="center">
+<sub>🧪 Active Lab Vectors: OWASP Top 10 · John the Ripper · Hydra Brute-Forcing · Packet Analysis · Active Directory Recon · Linux Privilege Escalation</sub>
+</div>
+
+---
+
+### 🎮 `root@uicipher:~# ./launch_ctf_arcade.sh`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=e2e8f0&bg_color=0d1117" height="175"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=tokyonight&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=0d1117" height="175"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff66&text_color=e2e8f0&bg_color=0d1117" height="175"/>
+</div>
+
+---
+
+### 🏆 `root@uicipher:~# ./extract_trophies.sh`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+### 🐍 `root@uicipher:~# tail -f /var/log/contribution_snake.log`
+
+<div align="center">
+
+<!-- snake animation generated by the workflow in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/UICipher/UICipher/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Real-time contribution matrix tracking automated via GitHub Actions.</sub>
+
+</div>
+
+---
+
+### 🧙 `root@uicipher:~# cat /etc/manifesto`
+
+> *"The quieter you become, the more you are able to hear."*
+>
+> — *The Hacker Manifesto*
+
+---
+
+### 📌 `root@uicipher:~# ps aux --forest | grep "active"`
+
+- 🔧 Grinding beginner and intermediate rooms on **TryHackMe / HackTheBox**
+- 📖 Strengthening low-level OS mechanics, Linux kernel structures, and TCP/IP handshakes
+- 🧩 Toolsmithing automated reconnaissance scripts in Python and C++
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>🔒 [ KERNEL SECURED — ACTIVE DEFENSIVE POSTURE ENGAGED ] 🔒</sub>
+</div>

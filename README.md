@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Elite Cyber Hacker Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=230&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=00ff66" width="100%"/>
+<!-- Elite Dark Matrix Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=240&section=header&text=UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=33&desc=%5B%20ROOT@UMARIMRAN:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=00ff66" width="100%"/>
 
 <!-- Live Interactive Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Bash+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Java+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
 
 <br/>
 
@@ -18,23 +18,24 @@
 
 ---
 
-### 🔐 `root@uicipher:~# cat ./about_me.md`
+### 🔐 `root@umarimran:~# cat ./about_me.md`
 
 - 🎓 **Academic Base:** Pursuing an intensive degree in **Cybersecurity** at **UET Lahore**
 - 🛡️ **Core Domain:** Passionate about **ethical hacking, penetration testing, vulnerability analysis, and network forensics**
-- 💻 **Low-Level Code:** Building strong foundations in systems programming to understand software from the inside out
+- 💻 **Low-Level Code & Systems:** Building strong foundations in systems programming and object-oriented software logic
 - 🔍 **Practical R&D:** Heavy focus on hands-on labs, CTF challenges, and exploit simulations rather than plain theory
 - 🚀 **Mission:** To become an elite security professional capable of both breaking and hardening critical infrastructure
 
 ---
 
-### 🧠 `root@uicipher:~# cat ./skills.cfg`
+### 🧠 `root@umarimran:~# cat ./skills.cfg`
 
 <div align="center">
 
 ![C](https://img.shields.io/badge/-C-050505?style=for-the-badge&logo=c&logoColor=00ff66)
 ![C++](https://img.shields.io/badge/-C++-050505?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
 ![Python](https://img.shields.io/badge/-Python-050505?style=for-the-badge&logo=python&logoColor=00ff66)
+![Java](https://img.shields.io/badge/-Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ff66)
 ![HTML5](https://img.shields.io/badge/-HTML5-050505?style=for-the-badge&logo=html5&logoColor=00ff66)
 ![CSS3](https://img.shields.io/badge/-CSS3-050505?style=for-the-badge&logo=css3&logoColor=00ff66)
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 🛠️ `root@uicipher:~# ./load_security_arsenal.sh`
+### 🛠️ `root@umarimran:~# ./load_security_arsenal.sh`
 
 <div align="center">
 
@@ -64,7 +65,7 @@
 
 ---
 
-### 🎮 `root@uicipher:~# ./launch_ctf_arcade.sh`
+### 🎮 `root@umarimran:~# ./launch_ctf_arcade.sh`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
@@ -75,7 +76,7 @@
 
 ---
 
-### 🏆 `root@uicipher:~# ./extract_trophies.sh`
+### 🏆 `root@umarimran:~# ./extract_trophies.sh`
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8" />
@@ -83,7 +84,7 @@
 
 ---
 
-### 🐍 `root@uicipher:~# tail -f /var/log/contribution_snake.log`
+### 🐍 `root@umarimran:~# tail -f /var/log/contribution_snake.log`
 
 <div align="center">
 
@@ -96,7 +97,7 @@
 
 ---
 
-### 📈 `root@uicipher:~# git-stats --activity-graph`
+### 📈 `root@umarimran:~# git-stats --activity-graph`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UICipher&theme=react-dark&hide_border=true&area=true" width="100%"/>
@@ -104,7 +105,7 @@
 
 ---
 
-### 🧙 `root@uicipher:~# cat /etc/manifesto`
+### 🧙 `root@umarimran:~# cat /etc/manifesto`
 
 > *"The quieter you become, the more you are able to hear."*
 >
@@ -112,11 +113,11 @@
 
 ---
 
-### 📌 `root@uicipher:~# ps aux --forest | grep "active"`
+### 📌 `root@umarimran:~# ps aux --forest | grep "active"`
 
 - 🔧 Grinding beginner and intermediate rooms on **TryHackMe / HackTheBox**
 - 📖 Strengthening low-level OS mechanics, Linux kernel structures, and TCP/IP handshakes
-- 🧩 Toolsmithing automated reconnaissance scripts in Python and C++
+- 🧩 Toolsmithing automated reconnaissance scripts in Python, C++, and Java
 
 ---
 

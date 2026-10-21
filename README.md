@@ -1,29 +1,110 @@
 <div align="center">
 
-<!-- Terminal Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0a0f0d,100:050505&height=180&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00FF66&animation=fadeIn&fontAlignY=40&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20SEC_OPS_ACTIVE&descAlignY=65&descSize=15&descColor=008F39" width="100%"/>
+<!-- Elite Terminal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0f172a,100:030712&height=220&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=Root@UICipher%20~%23%20Cybersecurity%20Specialist%20%7C%20UET&descAlignY=60&descSize=16&descColor=38bdf8" width="100%"/>
 
-<!-- Typing Terminal Effect -->
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Initializing+Security+Protocols...;Target%3A+Vulnerability+Assessment+%26+Pen-Testing;Executing+Payload...+Access+Granted;Status%3A+Ethical+Hacker+%7C+CTF+Enthusiast" alt="Terminal Typing SVG" />
+<!-- Live Typing Terminal SVG -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Executing+Reconnaissance...+Target+Acquired;Cybersecurity+Undergrad+@+UET+Lahore;C+%7C+C%2B%2B+%7C+Python+%7C+Offensive+Sec;Always+Hacking+Ethically.+Never+Stop+Learning." alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://www.linkedin.com/in/umar-imran-65538738a)
-[![Email](https://img.shields.io/badge/Secure_Mail-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF66)](mailto:umerimran1882@gmail.com)
-[![Clearance Level](https://img.shields.io/badge/Clearance-ROOT_ACCESS-000000?style=for-the-badge&logo=awesomewm&logoColor=00FF66)](https://github.com/UICipher)
+<!-- Interactive Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
+[![Gmail](https://img.shields.io/badge/Secure_Mail-0f172a?style=for-the-badge&logo=minutemailer&logoColor=00ff66)](mailto:umerimran1882@gmail.com)
+[![Clearance](https://img.shields.io/badge/Clearance-ROOT_ACCESS-0f172a?style=for-the-badge&logo=awesomewm&logoColor=00ff66)](https://github.com/UICipher)
 [![Profile Views](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff66&label=HITS)](https://github.com/UICipher)
 
 </div>
 
 ---
 
-### ⚡ `root@uicipher:~# whoami`
+### 💻 `root@uicipher:~# cat ./about_me.md`
 
-```c
-struct HackerProfile {
-    char* name        = "Muhammad Umar Imran";
-    char* role        = "Cybersecurity Student @ UET Lahore";
-    char* focus       = "Offensive Security, Vulnerability Analysis & Malware Mechanics";
-    char* philosophy  = "You cannot secure what you do not understand how to break.";
-};
+- 🎓 Pursuing a rigorous degree in **Cybersecurity** at **UET Lahore**
+- ⚡ Specialized in **ethical hacking, vulnerability analysis, and network packet forensics**
+- 🛠️ Building robust foundational code in **C, C++, and Python** to understand core system architectures
+- 🎯 Passionate about **CTF competitions, exploit mechanics, and penetration testing** labs
+- 🚀 Mission: Master both offensive tradecraft and defensive architecture to safeguard critical infrastructure
+
+---
+
+### ⚡ `root@uicipher:~# ./load_arsenal.sh`
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-030712?style=for-the-badge&logo=kalilinux&logoColor=00FF66)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-030712?style=for-the-badge&logo=burpsuite&logoColor=00FF66)
+![Nmap](https://img.shields.io/badge/Nmap-030712?style=for-the-badge&logo=nmap&logoColor=00FF66)
+![Metasploit](https://img.shields.io/badge/Metasploit-030712?style=for-the-badge&logo=metasploit&logoColor=00FF66)
+![Wireshark](https://img.shields.io/badge/Wireshark-030712?style=for-the-badge&logo=wireshark&logoColor=00FF66)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-030712?style=for-the-badge&logo=virtualbox&logoColor=00FF66)
+![Git](https://img.shields.io/badge/Git-030712?style=for-the-badge&logo=git&logoColor=00FF66)
+![Bash](https://img.shields.io/badge/Bash-030712?style=for-the-badge&logo=gnu-bash&logoColor=00FF66)
+
+</div>
+
+---
+
+### 🧬 `root@uicipher:~# ls -la /languages/`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-030712?style=for-the-badge&logo=c&logoColor=00FF66)
+![C++](https://img.shields.io/badge/C++-030712?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66)
+![Python](https://img.shields.io/badge/Python-030712?style=for-the-badge&logo=python&logoColor=00FF66)
+![HTML5](https://img.shields.io/badge/HTML5-030712?style=for-the-badge&logo=html5&logoColor=00FF66)
+![CSS3](https://img.shields.io/badge/CSS3-030712?style=for-the-badge&logo=css3&logoColor=00FF66)
+
+</div>
+
+<div align="center">
+<sub>🧪 Active R&D: OWASP Top 10 · John the Ripper · Hydra · Network Subnetting · TCP/IP Handshakes · Linux Privilege Escalation</sub>
+</div>
+
+---
+
+### 📊 `root@uicipher:~# neofetch --metrics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=e2e8f0&bg_color=030712" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=tokyonight&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=030712" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff66&text_color=e2e8f0&bg_color=030712" height="165"/>
+
+</div>
+
+---
+
+### 🏆 `root@uicipher:~# ./fetch_trophies.sh`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+### 🐍 `root@uicipher:~# tail -f /var/log/github_snake.log`
+
+<div align="center">
+
+<!-- snake animation generated by the workflow in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/UICipher/UICipher/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+### 🔐 `root@uicipher:~# cat /etc/quote`
+
+> *"The quieter you become, the more you are able to hear."*
+>
+> — *The Hacker Manifesto*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0f172a,100:030712&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>⚡ [ CONNECTION SECURED — ROOT ACCESS PERSISTENT ] ⚡</sub>
+</div>

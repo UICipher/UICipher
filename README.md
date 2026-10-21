@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=240&section=header&text=UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=33&desc=%5B%20ROOT@UMARIMRAN:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=00ff66" width="100%"/>
 
 <!-- Live Interactive Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Java+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;Python+%7C+Java+%7C+C+++%7C+C+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 - 🎓 **Academic Base:** Pursuing an intensive degree in **Cybersecurity** at **UET Lahore**
 - 🛡️ **Core Domain:** Passionate about **ethical hacking, penetration testing, vulnerability analysis, and network forensics**
-- 💻 **Low-Level Code & Systems:** Building strong foundations in systems programming and object-oriented software logic
+- 💻 **Low-Level Code & Systems:** Building strong foundations in systems programming, memory safety, and software logic using **Python, Java, C++, and C**
 - 🔍 **Practical R&D:** Heavy focus on hands-on labs, CTF challenges, and exploit simulations rather than plain theory
 - 🚀 **Mission:** To become an elite security professional capable of both breaking and hardening critical infrastructure
 
@@ -32,12 +32,12 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-050505?style=for-the-badge&logo=c&logoColor=00ff66)
-![C++](https://img.shields.io/badge/-C++-050505?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
 ![Python](https://img.shields.io/badge/-Python-050505?style=for-the-badge&logo=python&logoColor=00ff66)
 ![Java](https://img.shields.io/badge/-Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ff66)
-![HTML5](https://img.shields.io/badge/-HTML5-050505?style=for-the-badge&logo=html5&logoColor=00ff66)
-![CSS3](https://img.shields.io/badge/-CSS3-050505?style=for-the-badge&logo=css3&logoColor=00ff66)
+![C++](https://img.shields.io/badge/-C++-050505?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
+![C](https://img.shields.io/badge/-C-050505?style=for-the-badge&logo=c&logoColor=00ff66)
+![Bash](https://img.shields.io/badge/-Bash-050505?style=for-the-badge&logo=gnu-bash&logoColor=00ff66)
+![Git](https://img.shields.io/badge/-Git-050505?style=for-the-badge&logo=git&logoColor=00ff66)
 
 </div>
 
@@ -53,9 +53,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-050505?style=flat-square&logo=nmap&logoColor=00ff66)
 ![Metasploit](https://img.shields.io/badge/Metasploit-050505?style=flat-square&logo=metasploit&logoColor=00ff66)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-050505?style=flat-square&logo=virtualbox&logoColor=00ff66)
-![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=00ff66)
 ![VS Code](https://img.shields.io/badge/VS_Code-050505?style=flat-square&logo=visual-studio-code&logoColor=00ff66)
-![Bash](https://img.shields.io/badge/Bash-050505?style=flat-square&logo=gnu-bash&logoColor=00ff66)
 
 </div>
 
@@ -119,7 +117,7 @@
 
 - 🔧 Grinding beginner and intermediate rooms on **TryHackMe / HackTheBox**
 - 📖 Strengthening low-level OS mechanics, Linux kernel structures, and TCP/IP handshakes
-- 🧩 Toolsmithing automated reconnaissance scripts in Python, C++, and Java
+- 🧩 Toolsmithing automated reconnaissance scripts in Python, Java, C++, and C
 
 ---
 

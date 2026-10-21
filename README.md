@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Elite Cyber Hacker Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=230&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=38bdf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=230&section=header&text=MUHAMMAD%20UMAR%20IMRAN&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=%5B%20ROOT@UICIPHER:~%23%20%5D%20--%20CYBERSECURITY_OPERATIVE_%45_UET&descAlignY=62&descSize=16&descColor=00ff66" width="100%"/>
 
 <!-- Live Interactive Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Securing+Systems%2C+One+Exploit+at+a+Time;Target%3A+Penetration+Testing+%26+Red+Teaming;C+++%7C+Python+%7C+Bash+%7C+Linux+Kernel;Always+Learning.+Always+Hacking+Ethically." alt="Typing SVG" />
@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Professional Security Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
-[![Secure Mail](https://img.shields.io/badge/Secure_Mail-0d1117?style=for-the-badge&logo=minutemailer&logoColor=00ff66)](mailto:umerimran1882@gmail.com)
-[![Clearance](https://img.shields.io/badge/Clearance-ROOT_ACCESS-0d1117?style=for-the-badge&logo=awesomewm&logoColor=00ff66)](https://github.com/UICipher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff66)](https://www.linkedin.com/in/umar-imran-65538738a)
+[![Secure Mail](https://img.shields.io/badge/Secure_Mail-050505?style=for-the-badge&logo=minutemailer&logoColor=00ff66)](mailto:umerimran1882@gmail.com)
+[![Clearance](https://img.shields.io/badge/Clearance-ROOT_ACCESS-050505?style=for-the-badge&logo=awesomewm&logoColor=00ff66)](https://github.com/UICipher)
 [![Profile Views](https://komarev.com/ghpvc/?username=UICipher&style=for-the-badge&color=00ff66&label=HITS)](https://github.com/UICipher)
 
 </div>
@@ -32,11 +32,11 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c&logoColor=00ff66)
-![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff66)
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff66)
-![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff66)
+![C](https://img.shields.io/badge/-C-050505?style=for-the-badge&logo=c&logoColor=00ff66)
+![C++](https://img.shields.io/badge/-C++-050505?style=for-the-badge&logo=c%2B%2B&logoColor=00ff66)
+![Python](https://img.shields.io/badge/-Python-050505?style=for-the-badge&logo=python&logoColor=00ff66)
+![HTML5](https://img.shields.io/badge/-HTML5-050505?style=for-the-badge&logo=html5&logoColor=00ff66)
+![CSS3](https://img.shields.io/badge/-CSS3-050505?style=for-the-badge&logo=css3&logoColor=00ff66)
 
 </div>
 
@@ -46,15 +46,15 @@
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff66)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff66)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff66)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00ff66)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff66)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=00ff66)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff66)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=00ff66)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00ff66)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-050505?style=flat-square&logo=kalilinux&logoColor=00ff66)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-050505?style=flat-square&logo=burpsuite&logoColor=00ff66)
+![Wireshark](https://img.shields.io/badge/Wireshark-050505?style=flat-square&logo=wireshark&logoColor=00ff66)
+![Nmap](https://img.shields.io/badge/Nmap-050505?style=flat-square&logo=nmap&logoColor=00ff66)
+![Metasploit](https://img.shields.io/badge/Metasploit-050505?style=flat-square&logo=metasploit&logoColor=00ff66)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-050505?style=flat-square&logo=virtualbox&logoColor=00ff66)
+![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=00ff66)
+![VS Code](https://img.shields.io/badge/VS_Code-050505?style=flat-square&logo=visual-studio-code&logoColor=00ff66)
+![Bash](https://img.shields.io/badge/Bash-050505?style=flat-square&logo=gnu-bash&logoColor=00ff66)
 
 </div>
 
@@ -67,10 +67,10 @@
 ### 🎮 `root@uicipher:~# ./launch_ctf_arcade.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=e2e8f0&bg_color=0d1117" height="175"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=tokyonight&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=0d1117" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UICipher&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=UICipher&theme=vue-dark&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&bg_color=050505" height="175"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff66&text_color=e2e8f0&bg_color=0d1117" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UICipher&layout=compact&theme=vue-dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=050505" height="175"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@
 ### 🏆 `root@uicipher:~# ./extract_trophies.sh`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=UICipher&theme=matrix&no-frame=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -99,7 +99,7 @@
 ### 📈 `root@uicipher:~# git-stats --activity-graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UICipher&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UICipher&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -120,7 +120,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f0d,100:050505&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <sub>🔒 [ KERNEL SECURED — ACTIVE DEFENSIVE POSTURE ENGAGED ] 🔒</sub>
